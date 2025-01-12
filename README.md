@@ -40,15 +40,10 @@ A Chrome extension that helps streamline your job application process by storing
 
 ## File Structure 📁
 
-
 ├── manifest.json
-
 ├── popup.html
-
 ├── popup.js
-
 ├── popup.css
-
 ├── icon.png
 └── README.md
 
