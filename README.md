@@ -42,11 +42,16 @@ A Chrome extension that helps streamline your job application process by storing
 
 
 ├── manifest.json
+
 ├── popup.html
+
 ├── popup.js
+
 ├── popup.css
+
 ├── icon.png
 └── README.md
+
 
 ## Development 👨‍💻
 
